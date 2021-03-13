@@ -2,11 +2,9 @@ lab50:
   files:
     - !exclude "*"
     - !include "hello.py"
-    - !include "Scikit-learn_tutorial_answer.ipynb"
     - !include "test.py"
   cmd: python
   window:
     - editor
     - readme
     - terminal
-    - notebook
