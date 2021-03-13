@@ -5,7 +5,7 @@ lab50:
     - !include "Linux_tutorial.md"
     - !include "Data_wrangling_Python answer.ipynb"
     - !include "Scikit-learn_tutorial_answer.ipynb"
-  cmd: python
+  cmd: pip install sklearn
   window:
     - jupyter
     - readme
