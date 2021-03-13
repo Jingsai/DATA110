@@ -6,3 +6,4 @@ lab50:
     - !include "gapminderDataFiveYear_superDirty.txt"
   window:
     - jupyter
+    - readme
