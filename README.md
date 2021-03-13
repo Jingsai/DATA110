@@ -1,11 +1,15 @@
-# My Lab
+# DATA 110
 
-Some instructions.
-
-test
+Linux Command
 
 {% next %}
 
-===
+Git Command
 
-Designed based on CS50.
+{% next %}
+
+Python
+
+{% next %}
+
+Machine Learn
