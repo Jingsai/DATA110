@@ -2,6 +2,7 @@ lab50:
   files:
     - !exclude "*"
     - !include "test.py"
+    - !include "Scikit-learn_tutorial_answer.ipynb"
   cmd: python
   window:
     - editor
