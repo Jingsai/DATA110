@@ -1,8 +1,6 @@
 lab50:
   files:
     - !exclude "*"
-    - !include "Git_tutorial.md"
-    - !include "Linux_tutorial.md"
     - !include "Data_wrangling_Python answer.ipynb"
     - !include "Scikit-learn_tutorial_answer.ipynb"
     - !include "gapminderDataFiveYear_superDirty.txt"
