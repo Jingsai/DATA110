@@ -5,6 +5,6 @@ lab50:
     - !include "Scikit-learn_tutorial_answer.ipynb"
   cmd: python
   window:
-    - notebook
+    - jupyter
     - readme
     - terminal
